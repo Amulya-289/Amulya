@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 🔭 I’m 1st year CSE student<br>🤝 I’m looking for help and guidance from seniors<br>🌱 I’m currently working on skill <br>💬 Interested in development ,hackathon's and open source<br> Reach out  to me through amulya.k28972@gmail.com<br><br>
 
 
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Amulya&icon=9&color=0)](https://visitcount.itsvg.in)
 
-...
